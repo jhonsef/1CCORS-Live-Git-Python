@@ -1,1 +1,1 @@
-print("Olá, galáxia!")
+print("Olá, cosmos!")
